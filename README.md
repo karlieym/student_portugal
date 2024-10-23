@@ -1,6 +1,6 @@
 # Exploratory data mining on secondary students in Portugal
 ## :pencil2: Project description
-This project is for my education data mining course. Four data mining techniques are used to answer four research questions. The techniques are
+This project uses four data mining techniques to answer four research questions related to secondary student school performance. The techniques are
 **regression, random forest classification, relationship mining and PCA clustering.** Full code and paper can be found in this repository.
 <br> The four research questions are:
 <br> 1. Is it possible to predict student performance in Portuguese (mother tongue) Class? What are
